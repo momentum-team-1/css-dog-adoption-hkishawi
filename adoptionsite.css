@@ -9,7 +9,7 @@ img {
 }
 ul.nav li {
     font-family: "Open Sans";
-    display: inline;
+    display: inline-block;
     margin-left: 5px;
     margin-bottom: 20px;
     background-color: rgb(169, 226, 233);
@@ -23,6 +23,7 @@ ul.nav li {
     margin-top: 1px;
     margin-left: 0px;
     margin-bottom: 1px;
+    font-family: "Open Sans";
     text-align: left;
 }
 .tileMe li {
@@ -35,6 +36,7 @@ ul.nav li {
     display: inline; 
     float: left; 
 }
+
 .opensans {
     font-family: "Open Sans";
 }
@@ -42,7 +44,6 @@ ul.nav li {
 .oswald { 
     font-family: oswald;
 }
-
 
 .display {
     display: inline;
