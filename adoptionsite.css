@@ -1,0 +1,59 @@
+img {
+    height: 175px;
+    width: 275px;    
+}
+
+.ul { 
+    font-size: 12px;
+    margin-left: 0px; 
+}
+ul.nav li {
+    font-family: "Open Sans";
+    display: inline;
+    margin-left: 5px;
+    margin-bottom: 20px;
+    background-color: rgb(169, 226, 233);
+    border-radius: 10px;
+    border-style: none;
+    border-width: 2px;
+    padding: 1px 3px 1px 3px;
+    float: left; 
+}
+.para {
+    margin-top: 1px;
+    margin-left: 0px;
+    margin-bottom: 1px;
+    text-align: left;
+}
+.tileMe li {
+    display: inline;
+    float: left;
+}
+
+.footer {
+    align: left;
+    display: inline; 
+    float: left; 
+}
+.opensans {
+    font-family: "Open Sans";
+}
+
+.oswald { 
+    font-family: oswald;
+}
+
+
+.display {
+    display: inline;
+    float: left;
+    margin: 0px 0px 0px 0px; 
+    background-color: "";
+}
+
+.header {
+    color: white; 
+    background-color: rgb(3, 44, 98);
+    padding: 7px;
+}
+
